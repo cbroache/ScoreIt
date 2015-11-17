@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cody Broache\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-dca3e589f3a624025b05f6d0e2cfeea745530005.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\pre-dexed\debug\classes-147a12a4ee569637c3ef2dcf2d416b13fc84b751.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\pre-dexed\debug\classes-784871c15e0885770e2862ae17e7234a3baef34b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Cody Broache\Documents\Fall 2015\CMSC 436\ScoreIt\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-619eb293f685e005336be88d23a9bc56e6a4867d.jar" />
+    </item>
+
+</items>
